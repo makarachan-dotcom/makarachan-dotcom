@@ -25,7 +25,7 @@ I'm an IT student (expected 2027) who loves **AI and automation**. I build with 
 ## 🚀 Featured projects
 | Project | Description |
 |---|---|
-| [khmer-gaming-topup](https://github.com/makarachan-dotcom/khmer-gaming-topup) | Khmer-first game top-up store and account marketplace with Bakong KHQR payments |
+| [sms-telebot](https://github.com/makarachan-dotcom/sms-telebot) | Telegram bot for SMS-related automation (Python) |
 | [makara-store](https://github.com/makarachan-dotcom/makara-store) | Digital products store with KHQR + Stripe payments and admin panel |
 | [cv-makara](https://github.com/makarachan-dotcom/cv-makara) | AI-assisted Khmer CV builder with PDF export |
 | [sarika-tts](https://github.com/makarachan-dotcom/sarika-tts) | Khmer-first text-to-speech web studio |
